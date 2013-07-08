@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		26860361178B87DA00F48D6B /* Daniel.m in Sources */ = {isa = PBXBuildFile; fileRef = 26860360178B87DA00F48D6B /* Daniel.m */; };
 		AC3033321777E99A0038EEBA /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC3033311777E9990038EEBA /* CameraViewController.m */; };
 		AC30333A17783F5F0038EEBA /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC30333517783E380038EEBA /* FirstViewController.m */; };
 		AC30333B17783F5F0038EEBA /* SignUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC30333717783E3A0038EEBA /* SignUpViewController.m */; };
@@ -44,8 +43,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2686035F178B87DA00F48D6B /* Daniel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Daniel.h; sourceTree = "<group>"; };
-		26860360178B87DA00F48D6B /* Daniel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Daniel.m; sourceTree = "<group>"; };
 		3433FBB91788CFC8000346E6 /* email.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = email.h; path = MoleVision/email.h; sourceTree = SOURCE_ROOT; };
 		3433FBBA1788CFC8000346E6 /* email.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = email.m; path = MoleVision/email.m; sourceTree = SOURCE_ROOT; };
 		AC3033301777E9990038EEBA /* CameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraViewController.h; sourceTree = "<group>"; };
@@ -118,8 +115,6 @@
 		ACAA0A2F177770D000C6CFE9 = {
 			isa = PBXGroup;
 			children = (
-				2686035F178B87DA00F48D6B /* Daniel.h */,
-				26860360178B87DA00F48D6B /* Daniel.m */,
 				ACA0C4BC1788D8CE00186C26 /* MessageUI.framework */,
 				ACAA0A41177770D000C6CFE9 /* MoleVision */,
 				ACAA0A3A177770D000C6CFE9 /* Frameworks */,
@@ -297,7 +292,6 @@
 				ACAA0A921777725F00C6CFE9 /* CompareViewController.m in Sources */,
 				ACAA0A931777725F00C6CFE9 /* EditViewController.m in Sources */,
 				AC3033321777E99A0038EEBA /* CameraViewController.m in Sources */,
-				26860361178B87DA00F48D6B /* Daniel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
