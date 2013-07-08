@@ -359,10 +359,12 @@
 		ACAA0A5F177770D100C6CFE9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Nicholas Walsh (FMK5C936VH)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MoleVision/MoleVision-Prefix.pch";
 				INFOPLIST_FILE = "MoleVision/MoleVision-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -370,10 +372,12 @@
 		ACAA0A60177770D100C6CFE9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Nicholas Walsh (FMK5C936VH)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MoleVision/MoleVision-Prefix.pch";
 				INFOPLIST_FILE = "MoleVision/MoleVision-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
