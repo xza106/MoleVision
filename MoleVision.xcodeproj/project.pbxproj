@@ -7,11 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		268603661790A4DD00F48D6B /* lock.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 268603641790A4DD00F48D6B /* lock.jpeg */; };
+		268603671790A4DD00F48D6B /* user.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 268603651790A4DD00F48D6B /* user.jpeg */; };
+		268603691790A4F700F48D6B /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 268603681790A4F700F48D6B /* images.jpeg */; };
+		2686036B17914E2E00F48D6B /* background2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2686036A17914E2E00F48D6B /* background2.jpg */; };
+		2686036F179151B100F48D6B /* gray.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2686036E179151B000F48D6B /* gray.jpeg */; };
+		268603761791733500F48D6B /* skintype_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 268603701791733400F48D6B /* skintype_1.jpg */; };
+		268603771791733500F48D6B /* skintype_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 268603711791733400F48D6B /* skintype_2.jpg */; };
+		268603781791733500F48D6B /* skintype_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 268603721791733400F48D6B /* skintype_3.jpg */; };
+		268603791791733500F48D6B /* skintype_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 268603731791733400F48D6B /* skintype_4.jpg */; };
+		2686037A1791733500F48D6B /* skintype_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 268603741791733400F48D6B /* skintype_5.jpg */; };
+		2686037B1791733500F48D6B /* skintype_6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 268603751791733500F48D6B /* skintype_6.jpg */; };
 		AC3033321777E99A0038EEBA /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC3033311777E9990038EEBA /* CameraViewController.m */; };
 		AC30333A17783F5F0038EEBA /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC30333517783E380038EEBA /* FirstViewController.m */; };
 		AC30333B17783F5F0038EEBA /* SignUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC30333717783E3A0038EEBA /* SignUpViewController.m */; };
 		AC30333E17783F8F0038EEBA /* loginAndProfile-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AC30333817783E680038EEBA /* loginAndProfile-Info.plist */; };
-		AC303340177841B50038EEBA /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC30333F177841B40038EEBA /* Storyboard.storyboard */; };
 		AC745F6E1778E4ED00A60001 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC745F6D1778E4ED00A60001 /* MainStoryboard_iPhone.storyboard */; };
 		AC9834951788D4C600E6004A /* email.m in Sources */ = {isa = PBXBuildFile; fileRef = 3433FBBA1788CFC8000346E6 /* email.m */; };
 		ACA0C4BD1788D8CE00186C26 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACA0C4BC1788D8CE00186C26 /* MessageUI.framework */; };
@@ -43,18 +53,27 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		268603641790A4DD00F48D6B /* lock.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lock.jpeg; path = ../../lock.jpeg; sourceTree = "<group>"; };
+		268603651790A4DD00F48D6B /* user.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = user.jpeg; path = ../../user.jpeg; sourceTree = "<group>"; };
+		268603681790A4F700F48D6B /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images.jpeg; path = ../../MoleVision/MoleVision/images.jpeg; sourceTree = "<group>"; };
+		2686036A17914E2E00F48D6B /* background2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background2.jpg; path = ../../background2.jpg; sourceTree = "<group>"; };
+		2686036E179151B000F48D6B /* gray.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = gray.jpeg; path = ../../gray.jpeg; sourceTree = "<group>"; };
+		268603701791733400F48D6B /* skintype_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = skintype_1.jpg; path = ../../skintype_1.jpg; sourceTree = "<group>"; };
+		268603711791733400F48D6B /* skintype_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = skintype_2.jpg; path = ../../skintype_2.jpg; sourceTree = "<group>"; };
+		268603721791733400F48D6B /* skintype_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = skintype_3.jpg; path = ../../skintype_3.jpg; sourceTree = "<group>"; };
+		268603731791733400F48D6B /* skintype_4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = skintype_4.jpg; path = ../../skintype_4.jpg; sourceTree = "<group>"; };
+		268603741791733400F48D6B /* skintype_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = skintype_5.jpg; path = ../../skintype_5.jpg; sourceTree = "<group>"; };
+		268603751791733500F48D6B /* skintype_6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = skintype_6.jpg; path = ../../skintype_6.jpg; sourceTree = "<group>"; };
 		3433FBB91788CFC8000346E6 /* email.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = email.h; path = MoleVision/email.h; sourceTree = SOURCE_ROOT; };
 		3433FBBA1788CFC8000346E6 /* email.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = email.m; path = MoleVision/email.m; sourceTree = SOURCE_ROOT; };
 		AC3033301777E9990038EEBA /* CameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraViewController.h; sourceTree = "<group>"; };
 		AC3033311777E9990038EEBA /* CameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CameraViewController.m; sourceTree = "<group>"; };
-		AC30333317783E370038EEBA /* background2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background2.jpg; sourceTree = "<group>"; };
 		AC30333417783E380038EEBA /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		AC30333517783E380038EEBA /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		AC30333617783E390038EEBA /* SignUpViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SignUpViewController.h; sourceTree = "<group>"; };
 		AC30333717783E3A0038EEBA /* SignUpViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SignUpViewController.m; sourceTree = "<group>"; };
 		AC30333817783E680038EEBA /* loginAndProfile-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "loginAndProfile-Info.plist"; sourceTree = "<group>"; };
 		AC30333917783E690038EEBA /* loginAndProfile-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "loginAndProfile-Prefix.pch"; sourceTree = "<group>"; };
-		AC30333F177841B40038EEBA /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		AC745F6D1778E4ED00A60001 /* MainStoryboard_iPhone.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		ACA0C4BC1788D8CE00186C26 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		ACAA0A38177770D000C6CFE9 /* MoleVision.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoleVision.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -143,6 +162,8 @@
 		ACAA0A41177770D000C6CFE9 /* MoleVision */ = {
 			isa = PBXGroup;
 			children = (
+				2686036A17914E2E00F48D6B /* background2.jpg */,
+				2686036E179151B000F48D6B /* gray.jpeg */,
 				ACAA0A701777714900C6CFE9 /* ABCDEAppDelegate.h */,
 				ACAA0A711777714900C6CFE9 /* ABCDEAppDelegate.m */,
 				ACAA0A721777714900C6CFE9 /* ABCDEViewController.h */,
@@ -153,7 +174,6 @@
 				3433FBB91788CFC8000346E6 /* email.h */,
 				3433FBBA1788CFC8000346E6 /* email.m */,
 				ACAA0A651777714000C6CFE9 /* ViewController.m */,
-				AC30333317783E370038EEBA /* background2.jpg */,
 				AC30333417783E380038EEBA /* FirstViewController.h */,
 				AC30333517783E380038EEBA /* FirstViewController.m */,
 				AC30333617783E390038EEBA /* SignUpViewController.h */,
@@ -161,7 +181,15 @@
 				ACAA0A81177771B300C6CFE9 /* Mole.h */,
 				ACAA0A82177771B300C6CFE9 /* Mole.m */,
 				AC745F6D1778E4ED00A60001 /* MainStoryboard_iPhone.storyboard */,
-				AC30333F177841B40038EEBA /* Storyboard.storyboard */,
+				268603701791733400F48D6B /* skintype_1.jpg */,
+				268603711791733400F48D6B /* skintype_2.jpg */,
+				268603721791733400F48D6B /* skintype_3.jpg */,
+				268603731791733400F48D6B /* skintype_4.jpg */,
+				268603741791733400F48D6B /* skintype_5.jpg */,
+				268603751791733500F48D6B /* skintype_6.jpg */,
+				268603681790A4F700F48D6B /* images.jpeg */,
+				268603641790A4DD00F48D6B /* lock.jpeg */,
+				268603651790A4DD00F48D6B /* user.jpeg */,
 				AC3033301777E9990038EEBA /* CameraViewController.h */,
 				AC3033311777E9990038EEBA /* CameraViewController.m */,
 				ACAA0A661777714000C6CFE9 /* ListTableViewController.h */,
@@ -265,8 +293,18 @@
 				ACAA0AA0177772A600C6CFE9 /* Default.png in Resources */,
 				ACAA0AA1177772A600C6CFE9 /* Default@2x.png in Resources */,
 				ACAA0AA2177772A600C6CFE9 /* Default-568h@2x.png in Resources */,
-				AC303340177841B50038EEBA /* Storyboard.storyboard in Resources */,
 				AC745F6E1778E4ED00A60001 /* MainStoryboard_iPhone.storyboard in Resources */,
+				268603661790A4DD00F48D6B /* lock.jpeg in Resources */,
+				268603671790A4DD00F48D6B /* user.jpeg in Resources */,
+				268603691790A4F700F48D6B /* images.jpeg in Resources */,
+				2686036B17914E2E00F48D6B /* background2.jpg in Resources */,
+				2686036F179151B100F48D6B /* gray.jpeg in Resources */,
+				268603761791733500F48D6B /* skintype_1.jpg in Resources */,
+				268603771791733500F48D6B /* skintype_2.jpg in Resources */,
+				268603781791733500F48D6B /* skintype_3.jpg in Resources */,
+				268603791791733500F48D6B /* skintype_4.jpg in Resources */,
+				2686037A1791733500F48D6B /* skintype_5.jpg in Resources */,
+				2686037B1791733500F48D6B /* skintype_6.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
